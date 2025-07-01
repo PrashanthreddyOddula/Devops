@@ -1,1 +1,4 @@
-# Devops
+ # Devops
+ 
+ 
+ Experienced Integration Specialist and Middleware Engineer with over 10 years of expertise in API development and consumption (REST, SOAP), middleware platforms (Dell Boomi, MuleSoft, Workato), and ETL tools (Informatica, Talend). Proficient in scripting with JavaScript, Python, and Groovy, as well as SQL for data extraction, transformation, and reporting. Skilled in working across HR and ERP systems such as Workday, SAP SuccessFactors, and Oracle HCM, and integrating with timekeeping, finance, and identity systems. Strong background in reporting and analytics using tools like Power BI, Tableau, and SAP BO, including data modeling and dashboard development. Demonstrates effective collaboration with UX/VD teams, problem-solving in Agile/Scrum environments, and the ability to communicate technical solutions to non-technical stakeholders. Familiar with Beeline, SAP Fieldglass, and other VMS platforms, with proven experience supporting staffing/vendor management processes.
